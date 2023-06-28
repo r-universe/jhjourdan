@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dfcomb"]
 	path = dfcomb
 	url = https://github.com/cran/dfcomb
-	shallow = true
-	registered = true
 [submodule "dfmta"]
 	path = dfmta
 	url = https://github.com/cran/dfmta
-	shallow = true
-	registered = true
